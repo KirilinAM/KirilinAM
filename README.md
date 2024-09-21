@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Kirilin Artyom.
+I completed a Master's degree in Higher and Applied Mathematics at SFU. 
+I am currently working as an Analyst at Tricolor.
+
 
 <!--
 **KirilinAM/KirilinAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
