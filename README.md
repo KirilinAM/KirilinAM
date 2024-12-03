@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Kirilin Artyom.
+I am Kirilin Artem.
 
 I completed a Master's degree in Higher and Applied Mathematics at SFU. 
 
